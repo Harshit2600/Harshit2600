@@ -1,8 +1,8 @@
-<p align="center">Hi 👋, I'm Harshit Pratap Singh Bhadauria</p>
+<h2 align="center">Hi 👋, I'm Harshit Pratap Singh Bhadauria</h2>
 
 ###
 
-<p align="center">A passionate CS UnderGrad from Noida, India</p>
+<h3 align="center">A passionate CS UnderGrad from Noida, India</h3>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning MERN , DSA<br><br>💬 Ask me about C++,JS,DSA<br><br>📫 How to reach me pratapharshit00@gmail.com</p>
+<p align="left">->🌱 I’m currently learning MERN , DSA<br><br>->💬 Ask me about C++,JS,DSA<br><br>->📫 How to reach me pratapharshit00@gmail.com</p>
 
 ###
 
@@ -58,7 +58,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshit2600&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshit2600&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
