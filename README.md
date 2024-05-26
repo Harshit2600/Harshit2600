@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋, I'm Harshit Pratap Singh Bhadauria</h2>
+<h1 align="center">Hi 👋, I'm Harshit Pratap Singh Bhadauria</h1>
 
 ###
 
-<h3 align="center">A passionate CS UnderGrad from Noida, India</h3>
+<h2 align="center">A passionate CS UnderGrad from Noida, India</h2>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 ###
 
